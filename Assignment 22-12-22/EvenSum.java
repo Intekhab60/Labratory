@@ -1,4 +1,4 @@
-
+// WAP  to print all even numbers with in a range and print their sum.
 
 package basic;
 import java.util.Scanner;
