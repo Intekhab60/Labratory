@@ -12,7 +12,6 @@ public class AmstrongNumber
 		int num,rem,sum=0,temp;  		
 		System.out.println("Enter the number:");    
 		num =Sc.nextInt();
-		int actual = num;
 		   
 		temp=num;    
 		while(num>0)    
@@ -22,9 +21,9 @@ public class AmstrongNumber
 			num=num/10;
 		}    
 		if(temp==sum)    
-		System.out.println(actual+" is a armstrong  number.");    
+		System.out.println(temp+" is a armstrong  number.");    
 		else    
-		System.out.println(actual+" is not a armstrong number."); 
+		System.out.println(temp+" is not a armstrong number."); 
 	}
 
 } 
