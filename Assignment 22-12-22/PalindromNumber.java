@@ -1,4 +1,4 @@
-// WAP to check wheather a number is a palindrome pr not
+// WAP to check whether a number is a palindrome pr not
 
 package basic;
 import java.util.Scanner;
