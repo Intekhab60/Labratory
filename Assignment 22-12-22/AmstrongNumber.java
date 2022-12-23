@@ -1,4 +1,4 @@
-//WAP to check wheather a number(of any digits) is a amstrong number or not.
+//WAP to check whether a number(of any digits) is a amstrong number or not.
 
   package basic;
 
