@@ -6,7 +6,7 @@
             
 package basic;
 
-public class Pattern3 {
+public class StarPattern3 {
 
 	public static void main(String[] args) {
 		int k=0;
