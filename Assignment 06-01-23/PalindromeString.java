@@ -1,4 +1,4 @@
-//WAP to check weather a String is a palindrome or not.
+//WAP to check wether a String is a palindrome or not.
 
 
 package string;
